@@ -1,2 +1,2 @@
 # ly-bob-cc.github.io
-Problems, projects, and etcetera 
+Problems, projects, and etcetera via Coding Club 
