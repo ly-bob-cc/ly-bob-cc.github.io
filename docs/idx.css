@@ -1,0 +1,18 @@
+header {
+  
+}
+
+footer {
+  
+}
+
+.columns {
+  column-count: 2;
+  column-rule-width: 3px;
+  column-width: 33%;
+}
+
+.menu {
+  float: right;
+  width: 33%;
+}
