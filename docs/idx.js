@@ -10,3 +10,4 @@ for (let i = 0; i < content.length; i++) {
   let li_content = document.createElement('li');
   li_content.appendChild(document.createTextNode(content));
   ul_content.appendChild(li_content);
+}
