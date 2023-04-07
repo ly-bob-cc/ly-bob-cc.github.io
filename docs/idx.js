@@ -1,7 +1,7 @@
 let tab_text = document.getElementById('_title');
 tab_text.textContent = 'Coding Club';
 
-let h1_primary = document.getElementById('_h1');
+let h1_primary = document.getElementById('_heading');
 h1_primary.textContent = 'Table of Content';
 
 let content = ['Kinematics Calculator', 'Pascal Triangle'];
