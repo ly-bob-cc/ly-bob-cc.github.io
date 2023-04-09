@@ -8,6 +8,6 @@ let content = ['Kinematics Calculator', 'Pascal Triangle'];
 let ul_content = document.getElementById('_ul');
 for (let i = 0; i < content.length; i++) {
   let li_content = document.createElement('li');
-  li_content.appendChild(document.createTextNode(content));
+  li_content.appendChild(document.createTextNode(content[i]));
   ul_content.appendChild(li_content);
 }
