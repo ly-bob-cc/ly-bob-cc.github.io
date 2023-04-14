@@ -37,11 +37,11 @@ footer {
 .menu a {
   display: block;
   padding: 10px;
-  color: #333;
+  color: #ffffff;
   text-decoration: none;
 }
 
 .menu a:hover {
-  background-color: #333;
+  background-color: #fce26f
   color: #fff;
 }
