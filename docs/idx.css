@@ -42,6 +42,6 @@ footer {
 }
 
 .menu a:hover {
-  background-color: #fce26f
-  color: #fff;
+  /*background-color: #fce26f;*/
+  color: #fce26f;
 }
