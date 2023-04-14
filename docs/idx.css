@@ -6,6 +6,7 @@ footer {
   
 } */
 
+/* Two Columns Boday */
 .columns {
   column-count: 2;
   column-rule-width: 3px;
@@ -13,7 +14,6 @@ footer {
 }
 
 /* Floating Menu */
-
 .menu {
   position: fixed;
   top: 50%;
