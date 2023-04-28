@@ -10,14 +10,15 @@ footer {
 .columns {
   column-count: 2;
   column-rule-width: 3px;
-  column-width: 33%;
+  column-width: 31%;
 }
 
 /* Floating Menu */
 .menu {
   position: fixed;
   top: 50%;
-  right: 20px;
+  left: 20px;
+  width: 32%;
   transform: translateY(-50%);
   background-color: #0b65ecda;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
